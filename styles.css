@@ -3,11 +3,6 @@
 
 @import "{{ site.theme }}";
 
-body{
-    margin: 2;
-    background: lightblue;
-    text-align: left
-}
 
 body {
   font-family: 'Noto Sans', sans-serif;
